@@ -1,0 +1,7 @@
+image sources:
+http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator - playable character
+https://opengameart.org/content/country-field - background
+https://opengameart.org/content/spinning-gold-coin - collectable objects
+https://opengameart.org/content/werewolf-cabbit - enemy
+https://opengameart.org/content/2d-wooden-box - obstacle
+https://opengameart.org/content/metal-box - obstacle
